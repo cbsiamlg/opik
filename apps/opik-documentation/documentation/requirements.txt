@@ -1,1 +1,2 @@
 jupyter
+jupyterlab>=4.4.8 # not directly required, pinned by Snyk to avoid a vulnerability
